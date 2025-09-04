@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "features": "Features",
+    "caseStudies": "Case Studies",
+    "pricing": "Pricing",
+    "contactSales": "Contact Sales"
+  },
+  "hero": {
+    "badge": "Trusted by 40+ developments in Armenia",
+    "title1": "Turn Your Construction Projects into High-Converting",
+    "title2": "Digital Showrooms",
+    "desc": "Interactive, visual-first project pages built for construction companies and developers. Showcase your buildings, manage inventory, and get more qualified leads — all in one place.",
+    "demo": "Request a Free Demo",
+    "contact": "Contact Sales",
+    "live": "Live Demo Available"
+  },
+  "features": {
+    "title": "Built to Sell More, Not Just Show More",
+    "desc": "Everything you need to transform your construction projects into powerful sales tools",
+    "f1": {
+      "title": "Interactive Project Visualization",
+      "desc": "Let buyers explore your buildings, entrances, floors, and apartments through an intuitive 2D interface."
+    },
+    "f2": {
+      "title": "Smart Project Management Dashboard",
+      "desc": "Update unit prices, availability, and project metadata in real time."
+    },
+    "f3": {
+      "title": "Branded Landing Pages with Lead Capture",
+      "desc": "Each project gets its own marketing-ready webpage, optimized to convert visitors into buyers."
+    }
+  },
+  "cases": {
+    "title": "See Tamanyan.am in Action",
+    "desc": "Real results from real estate developers who chose Tamanyan.am",
+    "park": {
+      "title": "Park View Residences",
+      "desc": "128 units showcased, 70% reserved within 3 months.",
+      "stat": "4.9/5 buyer satisfaction"
+    },
+    "urban": {
+      "title": "Urban Heights",
+      "desc": "Sales team replaced traditional presentations with digital walkthroughs for faster buyer engagement.",
+      "stat": "50% faster sales cycle"
+    },
+    "cta": "Want similar results? Contact Our Team"
+  },
+  "pricing": {
+    "title": "Flexible Pricing to Fit Your Project Size",
+    "desc": "Choose the plan that works best for your development needs",
+    "standard": {
+      "title": "Standard Plan",
+      "desc": "Perfect for ongoing projects",
+      "price": "$XX",
+      "per": "/month"
+    },
+    "setup": {
+      "title": "One-Time Setup",
+      "desc": "Complete project digitization",
+      "price": "$XXX",
+      "per": "/project",
+      "badge": "Most Popular"
+    },
+    "custom": {
+      "title": "Custom Solutions",
+      "desc": "Enterprise & white-label"
+    },
+    "features": [
+      "Monthly dashboard access",
+      "Real-time updates",
+      "Published project pages",
+      "Basic analytics",
+      "Plan digitization",
+      "Complete onboarding",
+      "Launch support",
+      "Training included",
+      "Tailored integration",
+      "White-label deployment",
+      "Dedicated support",
+      "Custom features"
+    ],
+    "getStarted": "Get Started",
+    "startSetup": "Start Setup",
+    "contactSales": "Contact Sales",
+    "talkToSales": "Talk to Sales"
+  },
+  "final": {
+    "title": "Ready to Showcase Your Projects the Modern Way?",
+    "desc": "Tamanyan.am is already powering over 40 new developments in Armenia. Let's build your next project's digital experience together.",
+    "demo": "Request a Demo",
+    "contact": "Contact Sales"
+  },
+  "footer": {
+    "product": "Product",
+    "company": "Company",
+    "contact": "Contact",
+    "about": "About",
+    "support": "Support",
+    "rights": "All rights reserved."
+  }
+}
